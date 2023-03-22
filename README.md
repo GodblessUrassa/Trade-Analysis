@@ -30,4 +30,4 @@ You can interact with it [here](https://public.tableau.com/app/profile/godbless.
 
 ## Recommendations
 * Asia and Europe had assured markets for fish and crustaceans while Nigeria and Morocco had good markets for fish and crustaceans
-* The government was supposed to amend its policies to enhance productive trading and also facilitate farmers to increase the production of fish and crustaceans
+* The Tanznian government was supposed to amend its policies to enhance productive trading and also facilitate farmers to increase the production of fish and crustaceans
