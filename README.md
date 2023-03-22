@@ -3,7 +3,7 @@
 Aquaculture is the controlled cultivation (“farming”) of aquatic organisms such as fish, crustaceans, mollusks, algae, and other organisms of value such as aquatic plants. For this project, only two commodities were analyzed (fish and crustaceans). The analysis is narrowed down to a country (Tanzania) but also looking the condition of trade as a whole from 2005–2015
 
 ## Project Task
-Examining the condition of trade of aquaculture products from 2005-2015
+Examining the condition of trade in Tanzania from 2005-2015 and Market of aquaculture products. 
 
 ## Skills and Tools
 * Data visualisation on Tableau
