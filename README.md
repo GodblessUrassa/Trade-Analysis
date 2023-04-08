@@ -5,7 +5,7 @@ Aquaculture is the controlled cultivation (“farming”) of aquatic organisms s
 ## Project Task
 Examining the condition of trade in Tanzania from 2005-2015 and Market of aquaculture products. 
 
-## Skills and Tools
+## Tools
 * Data visualisation on Tableau
 * Microsoft SQL server management studio. Click [here](trade.sql) to access it
 
